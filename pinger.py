@@ -59,7 +59,7 @@ class Tweeter():
             return yaml.load(f)["twitter_config"]
 
     def tweet(self, tweet):
-        self.api.PostUpdate('testing 123!!')
+        self.api.PostUpdate(tweet)
         
 
 if __name__ == '__main__':
