@@ -1,0 +1,5 @@
+twitter_config:
+    consumer_key: <here>
+    consumer_secret: <here>
+    access_token_key: <here>
+    access_token_secret: <here>
